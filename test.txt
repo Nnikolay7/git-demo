@@ -1,5 +1,3 @@
 Panda, Tiger
 Cat, Dog
 Giraffe
-
-Monkey, Bird, Rat
