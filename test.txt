@@ -1,6 +1,3 @@
 Panda, Tiger
 Cat, Dog
-
 Giraffe
-
-New content
