@@ -2,3 +2,4 @@ Panda, Tiger
 Cat, Dog
 Giraffe
 Elephant
+Monkey
